@@ -1,0 +1,29 @@
+.flex-container {
+  display: flex;
+  background-color: silver;
+    color:black;
+        justify-content:center;
+}
+
+.flex-container > div {
+    margin: 15px;
+    font-size:20px;
+}
+
+div > h2 {
+    background-color:silver;
+    font-family:Lora;
+}
+
+div > p {
+    background-color:silver;
+    font-family:sans-serif;
+}
+
+h1{
+    font-family:Anton;
+}
+
+footer{
+    background-color: gold;
+}
